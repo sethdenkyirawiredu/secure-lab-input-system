@@ -19,6 +19,7 @@ Features
 
 •	Fails safely without crashing on invalid input
 
+
 Why this project exists
 
 In laboratory and healthcare systems, incorrect or poorly validated input can lead to:
