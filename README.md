@@ -76,8 +76,8 @@ Project structure
 Secure Lab Input System/
 ├── src/
 │   └── lab_input_system.py
-├── README.md
 ├── .gitignore
+├── README.md
 └── requirements.txt
 
 
