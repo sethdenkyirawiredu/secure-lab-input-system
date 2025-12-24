@@ -40,6 +40,7 @@ The program prompts the user to enter:
 2.	Patient age
 3.	Laboratory sample ID
 4.	Haemoglobin value
+
 Each input is validated before the program proceeds. If any value is invalid, the program stops and displays a clear message.
 Only validated data is accepted for further processing.
 
