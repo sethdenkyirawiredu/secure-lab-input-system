@@ -20,9 +20,7 @@ Features
 •	Fails safely without crashing on invalid input
 
 
-
 Why this project exists
-
 
 In laboratory and healthcare systems, incorrect or poorly validated input can lead to:
 
@@ -46,15 +44,25 @@ Each input is validated before the program proceeds. If any value is invalid, th
 Only validated data is accepted for further processing.
 
 Sample ID format
+
 The sample ID must follow this format:
 LAB-XXXX
+
 Where XXXX represents numeric digits only.
+
 Examples:
+
 •	LAB-0001
+
 •	LAB-2025
+
 Acceptable value ranges
+
 •	Patient age: 0 to 120 years
+
 •	Haemoglobin: 5.0 to 25.0 g/dL
+
+
 These ranges are used for demonstration purposes and can be adjusted.
 How to run the program
 1.	Make sure Python 3 is installed
