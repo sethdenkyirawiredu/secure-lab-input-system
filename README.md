@@ -1,4 +1,4 @@
-                        LAB INPUT SYSTEM
+LAB INPUT SYSTEM
 Overview
 This project is a simple Python-based command-line program that demonstrates secure input handling and validation in a clinical laboratory context.
 The system simulates how basic patient and laboratory data, such as patient name, age, sample ID, and haemoglobin value, can be collected safely while preventing invalid or unrealistic inputs from entering the workflow.
@@ -47,8 +47,11 @@ How to run the program
 python lab_input_system.py
 
 Project structure
-secure-lab-input-system/
-│
-├── lab_input_system.py
-└── README.md
+Secure Lab Input System/
+├── src/
+│   └── lab_input_system.py
+├── README.md
+├── .gitignore
+└── requirements.txt
+
 
