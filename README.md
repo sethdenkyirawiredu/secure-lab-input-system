@@ -1,5 +1,5 @@
                                                     SECURE LAB INPUT SYSTEM
-Overview
+                                                           Overview
 This project is a simple Python-based command-line program that demonstrates secure input handling and validation in a clinical laboratory context.
 The system simulates how basic patient and laboratory data, such as patient name, age, sample ID, and haemoglobin value, can be collected safely while preventing invalid or unrealistic inputs from entering the workflow.
 The focus of this project is secure coding habits, not advanced frameworks.
