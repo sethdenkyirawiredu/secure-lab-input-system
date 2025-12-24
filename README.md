@@ -6,19 +6,31 @@ The system simulates how basic patient and laboratory data, such as patient name
 The focus of this project is secure coding habits, not advanced frameworks.
 
 Features
+
 •	Cleans user input using whitespace and case normalisation
+
 •	Validates required text fields
+
 •	Validates numeric input safely using error handling
+
 •	Enforces realistic value ranges for laboratory results
+
 •	Uses allow lists and format checks for sample IDs
+
 •	Fails safely without crashing on invalid input
 
 Why this project exists
+
 In laboratory and healthcare systems, incorrect or poorly validated input can lead to:
+
 •	Data integrity issues
+
 •	Misinterpretation of results
+
 •	Workflow interruptions
+
 •	Patient safety risks
+
 This project demonstrates how secure coding principles can be applied early, even in small scripts, to reduce these risks.
 
 How it works
